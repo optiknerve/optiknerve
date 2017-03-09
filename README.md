@@ -1,2 +1,2 @@
-# optiknerve
-repo for hexo static site
+# optik-nerve
+hexo photo blog
